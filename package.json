@@ -1,0 +1,16 @@
+{
+  "name": "myvideochat",
+  "version": "1.0.0",
+  "description": "My first videochat WebRTC ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "webrtc.io": "0.0.4"
+  }
+}
